@@ -1,6 +1,4 @@
 package javalap1;
-
-// import java.io.*;
 class Shapes
 {
 public void area()
