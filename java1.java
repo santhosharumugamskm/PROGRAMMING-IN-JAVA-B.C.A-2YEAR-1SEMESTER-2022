@@ -1,6 +1,5 @@
 package javalap1;
 import java.io.*;
-// import java.lang.*;
 class Rect
 {
     int l,b;
