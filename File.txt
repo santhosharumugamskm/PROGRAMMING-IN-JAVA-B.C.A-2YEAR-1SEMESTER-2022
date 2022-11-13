@@ -1,0 +1,1 @@
+This example shows how to write string content to a file. Hi! Welcome to II B.C.A
